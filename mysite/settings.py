@@ -25,7 +25,7 @@ SECRET_KEY = 'gp@16df*^9a#fwhf4#d8q5q7dy8d+=#232j(6wiq3m#rhskxg+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com',  'https://stellarfox.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com',  'stellarfox.pythonanywhere.com']
 
 
 # Application definition
